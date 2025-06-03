@@ -3,9 +3,11 @@ def add(a, b, c, d):
     """Returns the sum of a and b."""
     return a + b + c + d
 
+
 def subtract(a, b):
     """Returns the difference of a and b."""
     return a - b
+
 
 
 if __name__ == "__main__":
